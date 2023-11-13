@@ -19,6 +19,12 @@ console.log(totalPrice);
 /* $$$$$$$$$$$$$$$$$ toString() $$$$$$$$$$$$$$$$$$$$$$$ */
 
 let names =["Rice","Chicken","Monitor","Chicken"]
-let stringNames = names.toString()
+let stringNames = names.toString() /* converti array to string  */
 console.log(stringNames);
+
+/* $$$$$$$$$$$$$$$$$ join() $$$$$$$$$$$$$$$$$$$$$$$ */
+/* join() fait la mm chose sauf qu'elle spécifie le séparateur */
+
+/* $$$$$$$$$$$$$$$$ concat() $$$$$$$$$$$$$$$$$$$$$$$$$$ */
+
 
