@@ -26,5 +26,12 @@ console.log(stringNames);
 /* join() fait la mm chose sauf qu'elle spécifie le séparateur */
 
 /* $$$$$$$$$$$$$$$$ concat() $$$$$$$$$$$$$$$$$$$$$$$$$$ */
+let names2 =["John","ali"]
+/* let joined = names.concat(names2) */
+/* console.log(joined); */
+
+let names3 =["Redi","Dolly"]
+let joined = names.concat(names2, names3)
+console.log(joined);
 
 
